@@ -61,6 +61,7 @@
                 </div>
                 {{ csrf_field() }}
                 <button type="submit" class="btn btn-success">Buy now</button>
+                <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
             </form>
         </div>
     </div>

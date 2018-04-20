@@ -21,6 +21,21 @@
 
     <style>
 
+        
+.bgimage {
+  width:100%;
+  height:250px;
+  background: url('https://www.gemethyst.com/Gemethyst_Images/404/pictures/gemethyst-548850d2017717156.jpg?pfdrid_c=true');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size:cover;
+  background-attachment: fixed;
+}
+.bgimage h5 {
+  color:white;
+  text-shadow:2px 2px #333;
+}
+
         .spacer {
             margin-bottom: 100px;
         }

@@ -24,8 +24,8 @@
         
 .bgimage {
   width:100%;
-  height:250px;
-  background: url('https://www.gemethyst.com/Gemethyst_Images/404/pictures/gemethyst-548850d2017717156.jpg?pfdrid_c=true');
+  height:500px;
+  background: url('/img/amethyst-3203771_1920.jpg');
   background-repeat: no-repeat;
   background-position: center;
   background-size:cover;
